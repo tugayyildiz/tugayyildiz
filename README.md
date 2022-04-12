@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+<div align="center">
+  <h1>CONTACT<h1>
+
+  <a href="https://www.linkedin.com/in/tugayyildiz">
+    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.hackerrank.com/recepyildirim?hr_r=1">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+
+</div><br />
+    
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=tugay-yildiz&show_icons=true&theme=radical&hide_border=true&border_radius=20%" alt="Profile Stats"/><br /><br />
+ 
 <!--
 **tugayyildiz/tugayyildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
