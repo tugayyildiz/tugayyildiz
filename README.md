@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.hackerrank.com/recepyildirims?hr_r=1">
+  <a href="https://www.hackerrank.com/tugayyildiz94">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
 
