@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on Java for Mobil Programming.
+    You can see my projects in different languages on my profile.
+
 <div align="center">
   <h1>CONTACT<h1>
 
@@ -14,7 +17,7 @@
 </div><br />
     
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=tugay-yildiz&show_icons=true&theme=radical&hide_border=true&border_radius=20%" alt="Profile Stats"/><br /><br />
+ <img src="https://github-readme-stats.vercel.app/api?username=tugayyildiz&show_icons=true&theme=radical&hide_border=true&border_radius=20%" alt="Profile Stats"/><br /><br />
  
 <!--
 **tugayyildiz/tugayyildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
