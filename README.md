@@ -7,7 +7,7 @@
 <div align="center">
   <h1>CONTACT<h1>
       
-      <a href="https://www.linkedin.com/in/tugay-yildiz-8b771b1a0/">
+      <a href="https://www.linkedin.com/in/tugay-yildiz-8b771b1a0/"> </a>
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
