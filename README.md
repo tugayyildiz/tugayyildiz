@@ -7,9 +7,11 @@
 <div align="center">
   <h1>CONTACT<h1>
       
-      <a href="https://www.linkedin.com/in/tugay-yildiz-8b771b1a0/"> </a>
-    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
   
+  <a href="https://www.linkedin.com/in/tugay-yildiz-8b771b1a0/">
+    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
   <a href="https://www.hackerrank.com/tugayyildiz94">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
@@ -19,16 +21,7 @@
 <p align="center"> 
       <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
     
-    
-    
     </p>
-
-      
-
-
-
-
-
 
 </div><br />
     
