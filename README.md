@@ -17,7 +17,10 @@
  <h3 align="center">Languages and Tools:</h3>
       
 <p align="center"> 
-      <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+      <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+    
+    <a href="https://www.java.com" target="_blank"> <img src="https://cdn.vox-cdn.com/thumbor/-_iz84sxjFk1L4JHRwhY6TCdu9o=/0x0:2040x1560/920x613/filters:focal(857x617:1183x943):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/65088839/Android_logo_stacked__RGB_.5.jpg" alt="java" width="40" height="40"/> </a>
+    
     </p>
 
       
