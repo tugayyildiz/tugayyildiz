@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Java for Mobil Programming. 
-    I’m currently learning Oracle Database.
+🔭 I’m currently working on Java for Mobil Programming and learning Oracle Database.
     You can see my projects in different languages on my profile.
 
 <div align="center">
